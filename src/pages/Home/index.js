@@ -29,7 +29,6 @@ function Home() {
       alert('preencha todos os campos')
     }
 
-   
   }
 
     return(
